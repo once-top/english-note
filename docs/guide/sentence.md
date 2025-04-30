@@ -14,7 +14,7 @@
 
 <img src="/sentence/3.png">
 
-句子的成分总够有8个，
+句子的成分总共有8个，
 
 <img src="/sentence/4.png">
 
